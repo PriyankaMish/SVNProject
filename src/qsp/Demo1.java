@@ -6,9 +6,9 @@ public class Demo1 {
 		System.out.println("Hiiiiiii");
 		System.out.println("Hiiiiiii");
 		System.out.println("Hiiiiiii");
-		
-		
-		
+		System.out.println("Hiiiiiii");
+		System.out.println("Hiiiiiii");
+		System.out.println("Hiiiiiii");
 	}
 
 }
